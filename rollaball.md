@@ -9,5 +9,6 @@ The player script controls the movement with the help of the Input system packag
 To make the collectibles disappear when the ball touches them, I made them into triggers so I could use the OnTriggerEnter() function, and I gave them a unity tag to check in this method that the collider will only disappear if it haves it (so the walls or the ground don’t accidentally disappear). The player script also has references to the win and count texts so it can update the count every time it hits a collectible (in the onTriggerEnter function) and when the count gets to 13 it displays the winning message by setting it to active, which concludes the game!
 
 I created a build for playing the game in windows, and this is the final result: 
+
 ![image](https://github.com/Rosabm/GMD/assets/100294631/a2cda208-979c-46ee-a6be-fd05dc7873d9)
 
