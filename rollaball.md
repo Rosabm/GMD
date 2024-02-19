@@ -20,9 +20,8 @@ To make the collectibles disappear when the ball touches them, I made them into 
 
 ![image](https://github.com/Rosabm/GMD/assets/100294631/99d083f7-7900-4943-b432-b39f780fe148)
 
-I created a build for playing the game in windows, and this is the final result: 
+I created a build for playing the game in windows, and this is the final result (click the link and play the game):  https://rosabm.github.io/rollaball/
 
 ![image](https://github.com/Rosabm/GMD/assets/100294631/cdb29f0b-9197-4184-bfeb-8666bd4af350)
 ![image](https://github.com/Rosabm/GMD/assets/100294631/db6dce7f-2479-4901-a125-f4700bad0dfc)
-
 
