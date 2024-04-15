@@ -28,9 +28,18 @@ Now lets look at the game itself:
 
 One of the first things the player finds is a new element I added: blocks of ice. They can be pushed by the player and they "melt" (shrink) when the fire player comes close. The code to controll it is in the fire state:
 
-![image](https://github.com/Rosabm/GMD/assets/100294631/7d434504-a70a-48bd-868b-92ad0f332edf)
+![ice-ezgif com-video-to-gif-converter](https://github.com/Rosabm/GMD/assets/100294631/2e695d52-90e7-4862-905e-4825cf94102d)
+
 ![image](https://github.com/Rosabm/GMD/assets/100294631/285cec33-d5b3-4291-8ec9-0552261f0874)
 
-Another new feauture is regarding enemies movement. In the last update, they constantly moved to the front. Now, they still have that option as a default, but I also added the patrolling option, so the can move between a number of points.
+Another new feauture is regarding enemies movement. In the last update, they constantly moved to the front. Now, they still have that option as a default, but I also added the patrolling option, so the can move between a number of points. The sider prefab now includes two scripts: the spiderController it already had, and the patrolling script. I added to the spider controller a boolean to decide if the spider will move automatically or use the patrolling movement.
 
+![araas-ezgif com-video-to-gif-converter](https://github.com/Rosabm/GMD/assets/100294631/25c1b42d-e68d-41cf-acfe-548fbc919383)
+
+![image](https://github.com/Rosabm/GMD/assets/100294631/7e98a12c-4425-4c8f-9a7e-f7a5c09a598b)
+![image](https://github.com/Rosabm/GMD/assets/100294631/54c2acfc-5578-4e5b-b751-7ac744ebc40b)
+![image](https://github.com/Rosabm/GMD/assets/100294631/d1362e45-a85f-4b0b-8165-3833f8939b24)
+
+The button to play the game in the main menu is working now as well.
+That's the current state of my game: Super Element Bros!
 
