@@ -14,7 +14,7 @@ I also noticed that the game had a weird behaviour when jumping. Specifically, b
 
 At one point of the game, I have a block of ice that the player must push to the water and stand on it to get a fire collectible. Therefore, to make the game a bit more realistic, I made the ice foat on the water. In order to do that, I simply applied an upwards force to the ice when is in contact to the water to mimic the floating behaviour.
 
-https://github.com/Rosabm/GMD/assets/100294631/40074c14-0f53-49b7-81f5-5eb9df0533a2
+![foatingIce-ezgif com-video-to-gif-converter](https://github.com/Rosabm/GMD/assets/100294631/3060caba-b7a5-4f20-a01f-b185a42df219)
 ![image](https://github.com/Rosabm/GMD/assets/100294631/e2af400f-e6bd-4ffe-9347-fd2b406ee43f)
 
 I also added a text next to the hearts to display the player score, and I made it so that killing enemies also increases the score, not only getting collectibles.
