@@ -19,6 +19,8 @@ Controls for the arcade machine:
 
 move-> joystick
 
+choose button-> green
+
 fire ball-> blue
 
 jump-> green
@@ -35,6 +37,8 @@ use item-> white
 Controls for a normal keyboard:
 
 move-> arrow keys
+
+choose button-> space bar
 
 fire ball-> z
 
