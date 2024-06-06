@@ -15,6 +15,39 @@ repository for the GMD course
 
 [Video demostration of my game](https://youtu.be/4BWPOhkc4OM)
 
+Controls for the arcade machine:
+
+move-> joystick
+
+fire ball-> blue
+
+jump-> green
+
+pause menu-> red
+
+change powers-> yellow
+
+use item-> white
+
+
+[If you want to play online :)](https://rosabm.github.io/GMD/) Play it in full screen!
+
+Controls for a normal keyboard:
+
+move-> arrow keys
+
+fire ball-> z
+
+jump-> x
+
+pause menu-> v
+
+change powers-> space bar
+
+use item-> b
+
+
+
 
 Tutorials I have followed or inspired myself with while creating the game:
 
@@ -38,4 +71,4 @@ Tutorials I have followed or inspired myself with while creating the game:
 
 [https://www.youtube.com/watch?v=--_CH5DYz0M](https://www.youtube.com/watch?v=--_CH5DYz0M)
 
-Optionally, a link to a playable WebGL build of your game, hosted on GitHub Pages
+
